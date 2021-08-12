@@ -1,0 +1,131 @@
+{
+  "name": "sitiofundecoop",
+  "version": "0.0.0",
+  "dependencies": {
+    "@angular/animations": {
+      "version": "12.2.1",
+      "from": "@angular/animations@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/animations/-/animations-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/common": {
+      "version": "12.2.1",
+      "from": "@angular/common@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/common/-/common-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/compiler": {
+      "version": "12.2.1",
+      "from": "@angular/compiler@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/compiler/-/compiler-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/core": {
+      "version": "12.2.1",
+      "from": "@angular/core@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/core/-/core-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/forms": {
+      "version": "12.2.1",
+      "from": "@angular/forms@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/forms/-/forms-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/platform-browser": {
+      "version": "12.2.1",
+      "from": "@angular/platform-browser@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/platform-browser-dynamic": {
+      "version": "12.2.1",
+      "from": "@angular/platform-browser-dynamic@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "@angular/router": {
+      "version": "12.2.1",
+      "from": "@angular/router@~12.2.0",
+      "resolved": "https://registry.npmjs.org/@angular/router/-/router-12.2.1.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    },
+    "rxjs": {
+      "version": "6.6.7",
+      "from": "rxjs@~6.6.0",
+      "resolved": "https://registry.npmjs.org/rxjs/-/rxjs-6.6.7.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "1.14.1",
+          "from": "tslib@^1.9.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz"
+        }
+      }
+    },
+    "tslib": {
+      "version": "2.3.1",
+      "from": "tslib@^2.3.0",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+    },
+    "zone.js": {
+      "version": "0.11.4",
+      "from": "zone.js@~0.11.4",
+      "resolved": "https://registry.npmjs.org/zone.js/-/zone.js-0.11.4.tgz",
+      "dependencies": {
+        "tslib": {
+          "version": "2.3.1",
+          "from": "tslib@^2.3.0",
+          "resolved": "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz"
+        }
+      }
+    }
+  }
+}
